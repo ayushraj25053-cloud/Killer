@@ -1,1 +1,2 @@
-ON
+a1b2c3d4|KEY123|=ON
+x9y8z7k6|KEY456|=ON
