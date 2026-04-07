@@ -1,2 +1,2 @@
-f9a3a080=dalto
-xyz456=REJECTED
+f9a3a080=dalton
+d98b21ac=stallion
